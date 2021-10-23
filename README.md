@@ -6,6 +6,7 @@
   * 对率回归(Logistic regression)
   * 线性判别分析(LDA)
   * 支持向量机(SVM)
+  * 支持向量描述(SVDD)
   * 决策树(Tree)
 - 非监督学习
   * K均值聚类(K-means)
